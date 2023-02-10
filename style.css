@@ -87,5 +87,5 @@ p {
     display: flex;
     align-items: center;
     object-fit: contain;
-    width: 80%;
+    width: 100%;
 }
